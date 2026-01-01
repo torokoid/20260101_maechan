@@ -195,6 +195,8 @@ p.note { display: none; }
 <a href="20260101_010.JPG" target="_blank"><img src="20260101_010.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260101_011.JPG" target="_blank"><img src="20260101_011.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260101_012.JPG" target="_blank"><img src="20260101_012.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">スキンヘッドのお姉様、髪が少し伸びてました</span></h2>
 <a href="20260101_013.JPG" target="_blank"><img src="20260101_013.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260101_014.JPG" target="_blank"><img src="20260101_014.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260101_015.JPG" target="_blank"><img src="20260101_015.JPG" alt="サンプル画像" class="responsive-media"></a>
